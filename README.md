@@ -2,7 +2,8 @@
 Algoritmo de ordenacao
 
 ```C#
+using 
 while(true){
-  Console.WriteLine("Hello World");
+  system.Console.WriteLine("Hello World");
 }
 ```
